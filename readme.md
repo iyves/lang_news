@@ -52,14 +52,25 @@ __Слайд 16__
 В будущем можно улучшить качество результатов этого проекта, используя самые новые модели машинного обучения для кластеринга и сентимент-анализа. Более того, надо выяснить причину резкого снижения объёма статей в сентябре. Было бы интересно сравнивать данные статей из разных стран и по разным языкам.
 
 [1]    https://apnews.com/article/donald-trump-capitol-siege-riots-media-8000ce7db2b176c1be386d945be5fd6a
+
 [2]    https://mediabiasfactcheck.com/associated-press/ 
+
 [3]    https://apnews.com/hub/capitol-siege
+
 [4]    https://mediabiasfactcheck.com/fox-news/ 
+
 [5]    https://www.foxnews.com/category/us/capitol-protests
+
 [6]    https://mediabiasfactcheck.com/cnn 
+
 [7]    https://www.cnn.com/2021/03/12/politics/us-capitol-riot-investigation-plea-deal/index.html
+
 [8]    https://mediabiasfactcheck.com/npr/ 
+
 [9]    https://www.npr.org/sections/insurrection-at-the-capitol
+
 [10]    https://towardsdatascience.com/machine-learning-versus-the-news-3b5b479d8e6a 
+
 [11]    https://www.kaggle.com/vfomenko/russian-news-2020 
+
 [12]    https://huggingface.co/blanchefort/rubert-base-cased-sentiment
